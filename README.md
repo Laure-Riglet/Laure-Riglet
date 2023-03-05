@@ -1,4 +1,4 @@
-### Hi there 👋
+![Cover](https://github.com/Laure-Riglet/Laure-Riglet/blob/main/img/bannierelinkedIn.png?raw=true)
 
 <!--
 **Laure-Riglet/Laure-Riglet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
