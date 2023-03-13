@@ -1,6 +1,6 @@
 ![Cover](https://github.com/Laure-Riglet/Laure-Riglet/blob/main/img/bannierelinkedIn.png?raw=true)
 
-Hi, I'm Laure, a french backend web developer.
+Hi, I'm Laure, a backend web developer.
 
 [![My Skills](https://skillicons.dev/icons?i=php,symfony,html,css,js,bootstrap,mysql,git,github,linux)](https://skillicons.dev)
 
